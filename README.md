@@ -1,0 +1,1 @@
+I converted a code than i learning in university form pseudocode by python.
